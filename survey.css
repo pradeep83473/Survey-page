@@ -1,0 +1,104 @@
+
+        * {
+            background-color: rgb(78, 45, 131);
+            font-family: font-family:'Poppins', sans-serif;
+
+        }
+
+        #title {
+            color: white;
+            text-align: center;
+            margin: auto;
+            margin-top: 50px;
+        }
+
+        #description {
+            color: white;
+            text-align: center;
+            margin: auto;
+            margin-top: 20px;
+            font-size: 20px;
+        }
+
+        #surver-form {
+            margin-top: 70px;
+            margin-left: 25%;
+            margin-right: 25%;
+            width: 50%;
+            border: 1px;
+            padding: 30px;
+            color: white;
+            background-color: teal;
+            border-radius: 3px;
+
+        }
+
+        #surver-form div,
+        label {
+            margin-bottom: 30px;
+            background-color: teal;
+            margin-left: 3%;
+        }
+
+        input {
+            width: 90%;
+            margin-left: 3%;
+            margin-right: 5%;
+            height: 35px;
+            border-radius: 7px;
+            background-color: black;
+            margin-top: 3px;
+
+
+        }
+
+        body {
+            font-family: 'Poppins', sans-serif;
+        }
+
+        #main-content {
+            background-color: red;
+        }
+
+        #select-dropdown {
+            height: 40px;
+            width: 590px;
+            background-color: black;
+            color: white;
+            border-radius: 7px;
+        }
+
+        input[type="checkbox"] {
+            margin-left: 20px;
+            width: 20px;
+
+        }
+
+        .form-group label {
+            display: block;
+            margin-bottom: -1%;
+
+        }
+
+        textarea {
+            width: 500px;
+            height: 200px;
+            margin-left: 20px;
+            background-color: black;
+        }
+
+        button {
+            background-color: rgb(43, 151, 43);
+
+            margin-left: 30px;
+            width: 500px;
+            height: 35px;
+            color: white;
+            font-size: 18px;
+            font-weight: 500;
+        }
+
+        input[type="radio"] {
+            height: 30px;
+        }
+    
